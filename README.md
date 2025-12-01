@@ -1,4 +1,4 @@
-# Kaggle Painter GAN
+# Photo to Monet GAN
 
 This repo contains code for the Photo to Monet Painting Kaggle competition which was used for a coding assignment for a Deep Learning Coursera course.
 
